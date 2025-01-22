@@ -1,0 +1,17 @@
+{
+    "name": "thanksd/goo",
+    "description": "A php package for goo.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Thanksd\\Goo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brian McMillen",
+            "email": "brian.mcmillen@journeygroup.com"
+        }
+    ],
+    "require": {}
+}
